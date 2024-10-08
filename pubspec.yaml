@@ -38,7 +38,7 @@ flutter:
   plugin:
     platforms:
       android:
-        package: com.example.contacts_service
+        package: flutter.plugins.contactsservice.contactsservice
         pluginClass: ContactsServicePlugin
       ios:
         pluginClass: ContactsServicePlugin
